@@ -1,0 +1,38 @@
+
+body{
+background-color: white;
+}
+
+.top-wrapper{
+  width:;0 auto
+  position:relative;
+  margin:10% 20%;
+}
+
+.top-text{
+  font-size:100px;
+  text-align: center;
+}
+
+.top-text a {
+  text-decoration:none; 
+}
+
+.dot-black{
+  color:#808080;
+  cursor: pointer;
+  
+}
+.seach{
+  text-align: center;
+  
+}
+.seach-text{
+  background-color: black;
+   color:white
+}
+
+.btn {
+ border-radius: 8px;
+
+}
